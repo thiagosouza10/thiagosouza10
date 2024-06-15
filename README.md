@@ -4,7 +4,7 @@
 🎓 Formado em [Sistemas de Informação] pela [Anhanguera Educacional].  
 🎓 Pós Graduado em [Engenharia de software com ênfase em teste e qualidade de software] pela [Anhanguera Educacional].  
 💼 Atualmente trabalhando como Test Lead na [Argo Solutions].  
-🌱 Sempre aprendendo sobre automação de testes, DevOps e novas tecnologias.
+🌱 Sempre aprendendo sobre teste de software, automação de testes, e novas tecnologias.
 
 ## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagodesouzaqa/)
