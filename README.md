@@ -28,5 +28,4 @@
 - ⚙️ Automação de Testes
 - 📈 Testes de Performance
 - 🧪 Testes de API
-- 🛠 CI/CD
 - 📋 Estratégias e Técnicas de Testes
